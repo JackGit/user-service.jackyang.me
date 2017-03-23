@@ -12,7 +12,7 @@ ENV HTTP_PORT=8080
 ENV NODE_ENV=production
 
 ENV LOG_LEVEL=ALL
-ENV LOG_FILE_DIRETORY=/var/log/jackyang.me/upload-service
+ENV LOG_FILE_DIRETORY=/var/log/jackyang.me/user-service
 
 ENV APP_ID=oKIqR7RKOUmhfwinWOOrxkFW-gzGzoHsz
 ENV APP_KEY=onqfBUfgUBqn9dJGl7GmPfGO
